@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unnatixxx
 - 👀 I’m interested in learning competitive coding and app development. 
 - 🌱 I’m currently learning c++, javascript. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate and learn more skills. 
 - 📫 How to reach me ...
 
 <!---
